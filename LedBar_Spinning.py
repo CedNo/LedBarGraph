@@ -1,7 +1,7 @@
 import time
 import RPi.GPIO as GPIO
 
-led_list = [17, 18, 27, 22, 23, 24, 25, 16, 20, 12]
+led_list = [17, 18, 27, 22, 23, 24, 25, 16, 20, 21]
 
 GPIO.setmode(GPIO.BOARD)
 GPIO.setwarnings(False)
