@@ -2,7 +2,7 @@ import RPi.GPIO as GPIO
 import time
 
 #Ports GPIO
-ledPins = [17, 18, 27, 22, 23, 24, 25, 16, 20, 12]
+ledPins = [17, 18, 27, 22, 23, 24, 25, 16, 20, 21]
 
 #Parametres initials
 def setup():
